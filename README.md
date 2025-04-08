@@ -1,4 +1,4 @@
-# A Python script that parses github API for most starred repositories.
+# A Python script that parses github API for a most starred repositories.
 
 ![alt text](https://github.com/innxrmxst/top-repos/blob/main/example.png?raw=true)
 
